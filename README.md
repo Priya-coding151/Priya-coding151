@@ -8,7 +8,7 @@
 - Excel/Power BI-based reporting dashboards
 - Data visualization challenges
 - 💻 Tools & Skills:
-- *MS Excel, **Power BI, **MS Word, **Canva*
+- *MS Excel, **Power BI, **MS Word, **MYSQL*
 - *GitHub, **Typewriting*
 - Basic knowledge of *HTML/CSS*
 - Languages: English, Tamil
